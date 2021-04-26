@@ -1,3 +1,8 @@
+'''
+This script is created by Santo K Thomas (santokalayil@gmail.com, +918891960880)
+This script is tested working only in windows 10 platform. 
+'''
+
 import re
 import subprocess
 import json
